@@ -6,4 +6,13 @@
 	* [Hack是什么？](02.01 what is hack.md)
 	* [Hack背景知识](02.02 hack background.md)
 	* [小结](02.03 summary.md)
+* [Hack语言参考手册](03 reference.md)
+	* [数组/Array](03.01 arrays.md)
+	* [异步/Async](03.02 async.md)
+	* [属性/Attributes](03.03 attributes.md)
+	* [集合/Collections](03.04 collections.md)
+	* [构造函数参数提升/Constructor Argument Promotion](03.05 constructor.md)
+	* [延续/Continuation](03.06 continuation.md)
+	* [枚举/Enums](03.07 enums.md)
+	* [泛型/Generics](03.08 generics.md)
 
