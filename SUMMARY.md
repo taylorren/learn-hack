@@ -22,7 +22,7 @@
 	* [泛型/Generics](03.08 generics.md)
 		* [引例](03.08.01 intro.md)
 		* [编写一个泛型类](03.08.02 class.md)
-		* [编写一个泛型接口和traits](03.08.03 interface.md)
+		* [编写一个泛型接口和traits](03.08.03 trait.md)
 		* [编写泛型方法](03.08.04 method.md)
 		* [泛型和类型推导](03.08.05 inference.md)
 		* [超越返回类型](03.08.06 override.md)
